@@ -38,4 +38,4 @@ Jalankan notebook analysis.ipynb menggunakan Jupyter Notebook atau VS Code Edito
 
 📈 Contoh Penggunaan
 
-Proyek ini menyertakan fitur interaktif di bagian akhir notebook di mana pengguna dapat memasukkan data secara manual (seperti jam belajar dan tingkat stres) untuk mendapatkan estimasi nilai akhir secara instan.
+Proyek ini menyertakan fitur interaktif di bagian akhir notebook di mana pengguna dapat memasukkan data secara manual (seperti jam belajar dan tingkat stres) untuk mendapatkan estimasi nilai akhir secara instan..
