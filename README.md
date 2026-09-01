@@ -5,7 +5,7 @@ Student Score Prediction 🎓
 
 Proyek sederhana ini bertujuan untuk memprediksi nilai akhir siswa berdasarkan berbagai faktor akademik dan psikologis menggunakan algoritma Linear Regression.
 
-📊 Hasil Analisis Utama
+ Hasil Analisis Utama
 
 Berdasarkan data yang diolah, ditemukan beberapa poin menarik:
 
@@ -15,7 +15,7 @@ Tingkat Stres: Terdapat pola di mana tingkat stres yang terlalu tinggi cenderung
 
 Akurasi Model: Model ini memiliki nilai R2 Score sebesar 0.99, yang menunjukkan tingkat akurasi prediksi yang sangat tinggi pada dataset ini.
 
-🛠️ Struktur Folder
+ Struktur Folder
 
 data/: Berisi file dataset student_data.csv.
 
@@ -25,7 +25,7 @@ notebook/: File analisis utama dalam format .ipynb.
 
 requirements.txt: Daftar library Python yang dibutuhkan untuk menjalankan proyek.
 
-🚀 Cara Menjalankan
+ Cara Menjalankan
 
 Clone repositori ini ke komputer kamu.
 
@@ -36,6 +36,6 @@ pip install -r requirements.txt
 
 Jalankan notebook analysis.ipynb menggunakan Jupyter Notebook atau VS Code Editor.
 
-📈 Contoh Penggunaan
+ Contoh Penggunaan
 
 Proyek ini menyertakan fitur interaktif di bagian akhir notebook di mana pengguna dapat memasukkan data secara manual (seperti jam belajar dan tingkat stres) untuk mendapatkan estimasi nilai akhir secara instan.
