@@ -1,7 +1,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Student Score Prediction 🎓
+### Student Score Prediction 
 
 Proyek sederhana ini bertujuan untuk memprediksi nilai akhir siswa berdasarkan berbagai faktor akademik dan psikologis menggunakan algoritma Linear Regression.
 
